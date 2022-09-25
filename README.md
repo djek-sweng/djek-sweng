@@ -6,7 +6,7 @@ As soft-/firmware engineer I am currently working on web-backend projects using 
 In the past I worked on embedded projects using ARM Cortex-M3/4 microcontrollers by ST, Spartan-6 FPGAs by Xilinx and Cyclone-V SoCs by Intel.
 
 #### **My languages**
-C/C++, C#, VHDL, Octave, Matlab, Simulink, Shell
+C#, C/C++, SQL, VHDL, Octave, Matlab, Simulink, Shell
 
 #### **My blog posts**
 [Flexible database access with OData - integration into your ASP.NET Core WebApi](https://github.com/djek-sweng/blog-odata-aspnet-core-webapi)<br>
