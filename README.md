@@ -9,6 +9,7 @@ In the past I worked on embedded projects using ARM Cortex-M3/4 microcontrollers
 C#, C/C++, SQL, VHDL, Octave, Matlab, Simulink, Shell
 
 #### **My blog posts**
+[Quartz.NET job scheduling framework - integration into your ASP.NET Core WebApi](https://github.com/djek-sweng/blog-quartz-cronjob-scheduling-aspnet-core)<br>
 [Flexible database access with OData - integration into your ASP.NET Core WebApi](https://github.com/djek-sweng/blog-odata-aspnet-core-webapi)<br>
 [Reverse engineering with Entity Framework Core - integration of an existing relational database system](https://github.com/djek-sweng/blog-scaffold-dbcontext-efcore)<br>
 [Change tracking with Entity Framework Core - automatically time-stamp your database records](https://github.com/djek-sweng/blog-change-tracking-efcore)<br>
