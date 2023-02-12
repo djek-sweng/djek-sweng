@@ -16,5 +16,8 @@ C#, C/C++, SQL, VHDL, Octave, Matlab, Simulink, Shell
 [Custom validation attributes with ASP.NET - bouncer for your C# web-API](https://github.com/djek-sweng/blog-custom-validation-attributes-aspnet)<br>
 [Code coverage testing with .NET - your C# code under the magnifying glass](https://github.com/djek-sweng/blog-code-coverage-testing-dotnet)
 
+#### **My fun coding**
+[STM32 bare metal programming projects](https://github.com/djek-sweng/stm32-bare-metal)
+
 #### **Where to find me**
 <a href="https://www.linkedin.com/in/djek-sweng/"><img width="22px" src="./img/linkedin.svg"/></a>
