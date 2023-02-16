@@ -21,4 +21,5 @@ C#, C/C++, SQL, VHDL, Octave, Matlab, Simulink, Shell
 [Quickstart makefile for C/C++ projects](https://github.com/djek-sweng/quickstart-makefile-c-cpp.git)
 
 #### **Where to find me**
-<a href="https://www.linkedin.com/in/djek-sweng/"><img width="22px" src="./img/linkedin.svg"/></a>
+<a href="https://www.linkedin.com/in/djek-sweng/">linkedin.com</a><br>
+<a href="https://www.traperto.com/author/david/">traperto.com</a>
