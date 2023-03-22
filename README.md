@@ -17,5 +17,6 @@ C#, C/C++, SQL, VHDL, Octave, Matlab, Simulink, Shell
 [Code coverage testing with .NET - your C# code under the magnifying glass](https://github.com/djek-sweng/blog-code-coverage-testing-dotnet)
 
 #### **My fun coding**
-[STM32 bare metal programming projects](https://github.com/djek-sweng/stm32-bare-metal)<br>
-[Quickstart makefile for C/C++ projects](https://github.com/djek-sweng/quickstart-makefile-c-cpp.git)
+[STM32 bare metal programming](https://github.com/djek-sweng/stm32-bare-metal)<br>
+[Quickstart makefile for C/C++ programming](https://github.com/djek-sweng/quickstart-makefile-c-cpp.git)<br>
+[.NET development wizards](https://github.com/djek-sweng/dotnet-wizards)
