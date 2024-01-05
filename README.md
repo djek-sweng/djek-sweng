@@ -8,7 +8,7 @@ In the past I worked on embedded projects using ARM Cortex-M3/4 microcontrollers
 
 #### **My languages**
 
-C#, C/C++, SQL, VHDL, Octave, Matlab, Simulink, Shell
+C#, C/C++, JavaScript, TypeScript, SQL, VHDL, Octave, Matlab, Simulink, Shell
 
 #### **My blog posts**
 
@@ -27,5 +27,8 @@ C#, C/C++, SQL, VHDL, Octave, Matlab, Simulink, Shell
 
 [MyMDb Angular SPA and ASP.NET Core web-API](https://github.com/djek-sweng/mymdb-angular-spa-aspnetcore-webapi)<br>
 [.NET development wizards](https://github.com/djek-sweng/dotnet-wizards)<br>
-[STM32 bare metal programming](https://github.com/djek-sweng/stm32-bare-metal)<br>
+[STM32 bare metal programming](https://github.com/djek-sweng/stm32-bare-metal)
+
+#### **My quickstarts**
+[Quickstart docker](https://github.com/djek-sweng/quickstart-docker.git)<br>
 [Quickstart makefile for C/C++ programming](https://github.com/djek-sweng/quickstart-makefile-c-cpp.git)
