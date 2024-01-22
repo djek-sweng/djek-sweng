@@ -21,6 +21,7 @@ C#, C/C++, JavaScript, TypeScript, SQL, VHDL, Octave, Matlab, Simulink, Shell
 
 #### **My researches**
 
+[Node.js Express API (Authorization Bearer, MongoDB, Socket.IO, GraphQL)](https://github.com/djek-sweng/research-nodejs-express-api)<br>
 [Entity Framework Core entity-type table mapping](https://github.com/djek-sweng/research-efcore-entity-type-table-mapping)<br>
 
 #### **My coding examples**
