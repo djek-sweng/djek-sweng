@@ -21,6 +21,7 @@ C#, C/C++, JavaScript, TypeScript, SQL, VHDL, Octave, Matlab, Simulink, Shell
 
 #### **My researches**
 
+[React SPA (Hooks, Router, TanStack Query, Vite, TypeScript)](https://github.com/djek-sweng/research-react-spa)<br>
 [NestJS API (Authorization Bearer, PostgreSQL, Passport)](https://github.com/djek-sweng/research-nestjs-api)<br>
 [Node.js Express API (Authorization Bearer, MongoDB, Socket.IO, GraphQL)](https://github.com/djek-sweng/research-nodejs-express-api)<br>
 [Entity Framework Core entity-type table mapping](https://github.com/djek-sweng/research-efcore-entity-type-table-mapping)<br>
