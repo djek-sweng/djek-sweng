@@ -2,13 +2,13 @@
 
 #### **My short biography**
 
-As soft-/firmware engineer I am currently working on web-backend projects using ASP.NET and Entity Framework Core.
+As soft-/firmware engineer I am currently working on web-backend projects using .NET.
 
-In the past I worked on embedded projects using ARM Cortex-M3/4 microcontrollers by ST, Spartan-6 FPGAs by Xilinx and Cyclone-V SoCs by Intel.
+I also worked on embedded projects using ARM Cortex-M3/4 microcontrollers by ST, Spartan-6 FPGAs by Xilinx and Cyclone-V SoCs by Intel.
 
 #### **My languages**
 
-C#, C/C++, JavaScript, TypeScript, SQL, VHDL, Octave, Matlab, Simulink, Shell
+C#, C/C++, Go, JavaScript, TypeScript, SQL, VHDL, Octave, Matlab, Simulink, Shell
 
 #### **My articles**
 
@@ -21,10 +21,11 @@ C#, C/C++, JavaScript, TypeScript, SQL, VHDL, Octave, Matlab, Simulink, Shell
 
 #### **My researches**
 
-[React SPA (Hooks, Router, TanStack Query, Vite, TypeScript)](https://github.com/djek-sweng/research-react-spa)<br>
-[Angular SPA (and ASP.NET Core web-API)](https://github.com/djek-sweng/research-angular-spa)<br>
+[Go Gin API (Authorization Bearer, SQLite, bcyrpt)](https://github.com/djek-sweng/research-go-gin-api)<br>
 [NestJS API (Authorization Bearer, PostgreSQL, Passport)](https://github.com/djek-sweng/research-nestjs-api)<br>
 [Node.js Express API (Authorization Bearer, MongoDB, Socket.IO, GraphQL)](https://github.com/djek-sweng/research-nodejs-express-api)<br>
+[React SPA (Hooks, Router, TanStack Query, Vite, TypeScript)](https://github.com/djek-sweng/research-react-spa)<br>
+[Angular SPA (and ASP.NET Core web-API)](https://github.com/djek-sweng/research-angular-spa)<br>
 [Entity Framework Core entity-type table mapping](https://github.com/djek-sweng/research-efcore-entity-type-table-mapping)<br>
 
 #### **My coding examples**
